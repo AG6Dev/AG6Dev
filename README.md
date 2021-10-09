@@ -5,6 +5,6 @@
  ## Contact me
  - Discord:  **AG6#9462**
 
-[![AG6Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=AG6Dev&show_icons=true&theme=radical))](https://github.com/AG6Dev/github-readme-stats)
+[![AG6Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=AG6Dev&show_icons=true&theme=radical)](https://github.com/AG6Dev/github-readme-stats)
 
  
