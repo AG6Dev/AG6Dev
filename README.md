@@ -1,6 +1,6 @@
 ## Welcome to my GitHub! 👋
  - I enjoy to code random things
- - I know Java and currently learning Python and C++
+ - I know Java and know a decent amount of Python
  
  ## Contact me
  - Discord:  **AG6#9462**
