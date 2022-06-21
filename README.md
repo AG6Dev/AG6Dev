@@ -1,6 +1,5 @@
 ## Welcome to my GitHub! 👋
- - I enjoy to code random things
- - I know Java and know a decent amount of Python
+- Check out [my site](https://ag6.site) for more information about me
  
  ## Contact me
 ![](https://discord.c99.nl/widget/theme-4/411601775078932491.png)
